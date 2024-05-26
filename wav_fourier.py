@@ -68,4 +68,4 @@ def plot_wav_frequency_spectrum(fname, start=62000, duration=1.0):
 
 # 使用例
 fname = 'KDark_16.wav'  # ここにWAVファイルのパスを入力してください
-plot_wav_frequency_spectrum(fname, start=0, duration=1.0)  # duration を変更できます
+plot_wav_frequency_spectrum(fname, start=0, duration=1.0)  #　start duration を変更できます
